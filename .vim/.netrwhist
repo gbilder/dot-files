@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/gbilder/src/prospect'
+let g:netrw_dirhist_2='/home/gbilder/src/crossmark'
+let g:netrw_dirhist_3='/home/gbilder/src/fundref_recon'
